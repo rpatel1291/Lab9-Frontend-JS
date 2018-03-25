@@ -1,0 +1,28 @@
+{
+  "name": "cs-546-lab9",
+  "version": "1.0.0",
+  "description": "Front End JavaScript and Client Side Form Validation ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpatel1291/Lab9-Frontend-JS.git"
+  },
+  "author": {
+    "name": "Ravi Patel",
+    "cwid": "10432313"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpatel1291/Lab9-Frontend-JS/issues"
+  },
+  "homepage": "https://github.com/rpatel1291/Lab9-Frontend-JS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
